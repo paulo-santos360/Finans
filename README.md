@@ -31,7 +31,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou e
 
 ## Autor
 
-Feito por [Seu Nome] com ❤️ e 💰.
+Feito por [Paulo Santos] com ❤️ e 💰.
 
 ## Emoji Key
 
